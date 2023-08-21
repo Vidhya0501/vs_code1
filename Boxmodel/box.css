@@ -1,0 +1,23 @@
+.Box{
+    width: 500px;
+    height:500px;
+    background-color:lightseagreen ;
+    margin: 20px;
+    padding: 30 px;
+}
+
+h1{
+    text-align: center;
+    border: 3px solid red;
+    background-color:lightcoral;
+    margin:50px;
+    padding:20px;
+}
+
+p{
+    text-align: justify;
+    border: 3px solid red;
+    background-color:rgb(39, 209, 47);
+    margin:50px;
+    padding:20px;
+}

@@ -1,0 +1,32 @@
+*{
+    background-color:black;
+    font-family: sans-serif;
+
+}
+.name{
+    text-align: center;
+    color:orange;
+    font-weight: bolder;   
+}
+.about{
+    color:orange;
+    text-align: justify;
+    margin:0%
+    
+}
+p{
+    color:white
+}
+.contact{
+    color:orange
+}
+footer{
+    color:white
+}
+form{
+    color: white;
+}
+#image{
+    text-align: center;
+    
+}
